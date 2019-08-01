@@ -8,7 +8,7 @@ import datetime
 
 AUTHOR = u'paul weidinger'
 SITENAME = u'Containing Multitudes'
-SITESUBTITLE = u'A collection from the ideas and interests of pweids'
+SITESUBTITLE = u'A collection of the ideas and interests of paul weidinger'
 SITEURL = u'/'
 DEFAULT_LANG = u'en'
 DEFAULT_CATEGORY = 'blog'
