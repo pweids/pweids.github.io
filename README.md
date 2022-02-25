@@ -1,111 +1,120 @@
-# blog-o-matic by Pablo Iranzo
+> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-**Table of contents**
-<!-- TOC depthFrom:2 insertAnchor:true orderedList:true updateOnSave:true -->
+# Jekyll Now
 
-- [blog-o-matic by Pablo Iranzo](#blog-o-matic-by-pablo-iranzo)
-  - [Introduction](#introduction)
-  - [Setup](#setup)
-  - [Test it](#test-it)
-  - [Add file to repository](#add-file-to-repository)
-  - [Add file to commit](#add-file-to-commit)
-  - [Upload changes to github](#upload-changes-to-github)
-  - [WARNING](#warning)
-  - [Going the extra mile](#going-the-extra-mile)
-  - [Feedback and wrap up](#feedback-and-wrap-up)
+**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
-<!-- /TOC -->
+**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
-<a id="markdown-introduction" name="introduction"></a>
-## Introduction
+- You don't need to touch the command line
+- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
+- You don't need to install runtime dependencies like markdown processors, Pygments, etc
+- If you're on Windows, this will make setting up Jekyll a lot easier
+- It's easy to try out, you can just delete your forked repository if you don't like it
 
-The Idea with this repository, is to have an easy an 'automated' setup of a blog on github pages by following some easy instructions.
+In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
 
-You'll need to setup several steps manually (sorry, I can't do that for you), but once done, each time you publish a new article (markdown, asciidoc), the blog will be redeployed showing your new one.
+![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
-Blog will be using:
+## Quick Start
 
-- Git Hub pages for the hosting of the sources and repository
-  - Git Hub token to publish new 'website' once a new article is uploaded
-- [travis-ci.org](https://travis-ci.org) for automating the update and generation process
-- ['pelican'](https://blog.getpelican.com/) for static rendering of your blog from the markdown or asciidoc articles
-- ['Elegant'](https://github.com/Pelican-Elegant/elegant) for the 'Theme'
-- [peru](https://github.com/buildinspace/peru) for automating repository upgrades for plugins, etc
+### Step 1) Fork Jekyll Now to your User Repository
 
-<a id="markdown-setup" name="setup"></a>
-## Setup
+Fork this repo, then rename the repository to yourgithubusername.github.io.
 
-- Fork this repository to your github account, if this is your first 'blog', name it `username.github.io` if not, it will be published as `username.github.io/repository`
-  - Visit `settings' on your new cloned repository:
-    ![repository settings](2019-01-09-11-35-52.png)
-    - Enable GitHub Pages on the 'master' branch:
-        ![gh pages enabled](2019-01-09-11-36-48.png)
-      - Validate that the URL now works (<https://iranzo.github.io/blog-o-matic/>)
-- Generate a [github token](https://github.com/settings/tokens/new) for your account and save securely the value obtained:
-  ![Generate token](2019-01-09-11-33-12.png)
-- Go to [travis-ci.org](https://travis-ci.org/) and login with your github account.
-  - Enable repository builds (in your profile):
-      ![Enable travis repository builds](2019-01-09-11-31-13.png)
-  - And click on 'settings' once done, and define a new environment variable named `GHTOKEN` with the value obtained in the prior step
-      ![Define environment variable](2019-01-09-11-32-18.png)
-    - Click on 'ADD' once done:
-        ![Add TOKEN value](2019-01-09-11-33-46.png)
-      - Token will now be saved and ready for use
-- Clone the resulting repository to your system, for example:
-  - `git clone https://github.com/iranzo/blog-o-matic.git`
-  - change to the `source` branch that will contain the code that we'll be using for updating the website.
-    - `git checkout source`
+Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
-- Edit new articles in `content/` based on the one already provided.
+![Step 1](/images/step1.gif "Step 1")
 
-<a id="markdown-test-it" name="test-it"></a>
-## Test it
+### Step 2) Customize and view your site
 
-As of this step, your repository should be already published on <https://githubusername.github.io/> with the 'sample' content
+Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
 
-You're ready to write a new article, use 'welcome.md' as an example so that you keep useful headers like category, tags, autho, title, publish date, etc (YAML preamble) and save it as 'yourdesiredname.md'.
+Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
 
-Once you've written your new article in 'content' folder, perform:
+> There are 3 different ways that you can make changes to your blog's files:
 
-~~~sh
-## Add file to repository
-git add content/new-article-filename
+> 1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
+> 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
+> 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
 
-## Add file to commit
-git commit -m "My new article"
+![_config.yml](/images/config.png "_config.yml")
 
-## Upload changes to github
-git push
-~~~
+### Step 3) Publish your first blog post
 
-After some seconds, <https://travis-ci.org> will start showing that a new build is in progress, and once it finishes successfully, the resulting webpage will be available via your `username.github.io` domain.
+Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
-<a id="markdown-warning" name="warning"></a>
-## WARNING
+![First Post](/images/first-post.png "First Post")
 
-- `peru.yaml` is set to use `next` branch of Elegant theme for pelican, as this setup uses pelican 4.0 and current 'master' doesn't work for it (feed slugs related)
-  - Remember to update the file or check master blog-o-matic from time to time to see when you should update it <https://github.com/iranzo/blog-o-matic/issues/1>
+> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
-<a id="markdown-going-the-extra-mile" name="going-the-extra-mile"></a>
-## Going the extra mile
+## Local Development
 
-- Elegant does generate a sitemap to submit to web crawlers to ease indexing
-  - `YOURURL/sitemap.xml` can be submitted
-  - [Google Search Console](https://search.google.com/search-console/)
-    - Will require you to claim the website as yours, for doing so:
-      - Check HEADER method
-      - customize `pelicanconf.py` to match the value you received, in the line that says:
-        - `CLAIM_GOOGLE = 'XX'`
-  - [Bing Webmaster](https://www.bing.com/webmaster/)
-      - Check HEADER method
-      - customize `pelicanconf.py` to match the value you received, in the line that says:
-        - `CLAIM_BING = 'XX'`
-- Review other settings in `pelicanconf.py` to customize your blog name, your name, twitter handle, google analytics ID or others, please do check [Pelican-Elegant documentation](https://pelican-elegant.github.io) for more information on what can be done.
-- Check <https://iranzo.github.io/tags/#blog-o-matic-ref> for more articles related with blog-o-matic published in my personal blog.
+1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
+2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
+3. Serve the site and watch for markup/sass changes `jekyll serve`
+4. View your website at http://127.0.0.1:4000/
+5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
-<a id="markdown-feedback-and-wrap-up" name="feedback-and-wrap-up"></a>
-## Feedback and wrap up
+## Moar!
 
-- For saying thanks: <https://paypal.me/iranzop>
-- For issues: <https://github.com/iranzo/blog-o-matic/issues/>
-- For other things I've done: <https://iranzo.github.io>
+I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
+
+It covers:
+
+- A more detailed walkthrough of setting up your Jekyll blog
+- Common issues that you might encounter while using Jekyll
+- Importing from Wordpress, using your own domain name, and blogging in your favorite editor
+- Theming in Jekyll, with Liquid templating examples
+- A quick look at Jekyll 2.0’s new features, including Sass/Coffeescript support and Collections
+
+## Jekyll Now Features
+
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
+✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
+✓ Sass/Coffeescript support using Jekyll 2.0  
+✓ Free hosting on your GitHub Pages user site  
+✓ Markdown blogging  
+✓ Syntax highlighting  
+✓ Disqus commenting  
+✓ Google Analytics integration  
+✓ SVG social icons for your footer  
+✓ 3 http requests, including your avatar  
+
+✘ No installing dependencies
+✘ No need to set up local development  
+✘ No configuring plugins  
+✘ No need to spend time on theming  
+✘ More time to code other things ... wait ✓!  
+
+## Questions?
+
+[Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
+
+## Other forkable themes
+
+You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
+
+- [Hyde](https://github.com/poole/hyde) by MDO
+- [Lanyon](https://github.com/poole/lanyon) by MDO
+- [mojombo.github.io](https://github.com/mojombo/mojombo.github.io) by Tom Preston-Werner
+- [Left](https://github.com/holman/left) by Zach Holman
+- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
+- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
+
+## Credits
+
+- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
+- [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
+- [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
+- [Joel Glovier](http://joelglovier.com/writing/) - Great Jekyll articles. I used Joel's feed.xml in this repository.
+- [David Furnes](https://github.com/dfurnes), [Jon Uy](https://github.com/jonuy), [Luke Patton](https://github.com/lkpttn) - Thanks for the design/code reviews.
+- [Bart Kiers](https://github.com/bkiers), [Florian Simon](https://github.com/vermluh), [Henry Stanley](https://github.com/henryaj), [Hun Jae Lee](https://github.com/hunjaelee), [Javier Cejudo](https://github.com/javiercejudo), [Peter Etelej](https://github.com/etelej), [Ben Abbott](https://github.com/jaminscript), [Ray Nicholus](https://github.com/rnicholus), [Erin Grand](https://github.com/eringrand), [Léo Colombaro](https://github.com/LeoColomb), [Dean Attali](https://github.com/daattali), [Clayton Errington](https://github.com/cjerrington), [Colton Fitzgerald](https://github.com/coltonfitzgerald), [Trace Mayer](https://github.com/sunnankar) - Thanks for your [fantastic contributions](https://github.com/barryclark/jekyll-now/commits/master) to the project!
+
+## Contributing
+
+Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
+
+You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+
+I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
