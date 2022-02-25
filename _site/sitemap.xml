@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lessons I Give Myself</title>
+    <description>Lessons I Give Myself</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 25 Feb 2022 16:27:59 -0500</pubDate>
+    <lastBuildDate>Fri, 25 Feb 2022 16:27:59 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>A modern principle for digital humans</title>
+        <description>&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;A fundamental human problem: how do we cooperate to maintain our civilization when each individual is a mess of ego and self-preservation? &lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Evolution gifted us with both the bonding drug oxytocin and a sense of existential dread we call embarrassment. Religions enshrine morality in divine will and immortal reward. Western enlightenment thinkers appeal to rationality and the natural order.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;But what always sticks are easy-to-remember principles. The Judeo-Christian marketing department nailed this one: “do unto others as you would have them do unto you.” It even has a catchy name.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;However, modern people are organized in more ways than any classic thinker could have imagined. “Just be nice to your neighbor” won’t cut it anymore. Nearly everyone is a part of a company, an online forum, an HOA, a slack group, the prom committee, a twitter thread, or maybe even something more decentralized and weird. Attachments are ephemeral.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;So how should we act?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I discovered such an answer only recently (surprising because it comes from my collegiate department). I was amazed by its simplicity and flexibility. Although not quite as pithy as the Golden Rule, it’s nonetheless easy to remember. As proof, this principle spread in unwritten fashion for most of its existence.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:heading --&gt;&lt;/p&gt;
+&lt;h2 id=&quot;the-reasonable-person-principle&quot;&gt;&lt;a href=&quot;https://www.cs.cmu.edu/~weigand/staff/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;The Reasonable Person Principle&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;!-- /wp:heading --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Linked above, but we&apos;ll take it in pieces. The overview states:&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;small&gt;Everyone will be reasonable.&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;&lt;small&gt;Everyone expects everyone else to be reasonable.&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;&lt;small&gt;No one is special.&lt;/small&gt;&lt;/li&gt;
+&lt;li&gt;&lt;small&gt;Do not be offended if someone suggests you are not being reasonable.&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;The bullets are simple enough: be reasonable. I interpret &quot;reasonable&quot; in contrast with two other qualities: emotional and demanding. Emotional actors are irrational -- literally not acting with reason. Demanding actors expect &lt;em&gt;others&lt;/em&gt; to behave without reason -- that is, in the demanding actor&apos;s best interest. Both serve ego. And &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818&quot; target=&quot;_blank&quot;&gt;ego is the enemy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Continuing...&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:quote --&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;&lt;small&gt;Reasonable people think about their needs, and the needs of others, and adjust their behavior to meet the goals of a common good for the community, i.e., expressing&lt;/small&gt; &lt;small&gt;what you want to say, but accepting and accommodating the needs of others.&lt;/small&gt; ... &lt;small&gt;It holds that reasonable people strike a suitable balance between their own immediate desires and the good of the community at large.&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;!-- /wp:quote --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;This advocates a community-focused mindset: reason would dictate that what is good for the community is good for the individual. If the community falters, the individual would cease to get much value out of it. Of course, this is a balance. If someone were giving to a community and got nothing back, that person would (reasonably) leave. (Keep in mind: some communities, like citizenship, are not voluntary communities. The principle doesn&apos;t extend everywhere).&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I also like the part about self-moderated self-expression. A community should not to tamp down any one person&apos;s individuality. Instead, it should provide the guard rails to make sure it doesn&apos;t descend into 4chan-level madness.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:quote --&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;&lt;small&gt;Not all people share the same model of reasonableness, so disagreements inevitably occur. Under the reasonable person principle, the first thing to do is work it out privately (perhaps in person, since e-mail is known to amplify feelings). Indeed, many people would find it unreasonable to bring in third parties before trying personal discussion.&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;!-- /wp:quote --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;This is a refreshing statement. People interpret law and proprietary differently, and that&apos;s acknowledged from the outset. Better to plan for the inevitable than to try legislating away conflict. It boils down to communication.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:quote --&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;wp-block-quote&quot;&gt;&lt;p&gt;&lt;small&gt;More generally, the reasonable person principle favors local, unofficial actions over formal administrative ones. It assumes that people will be responsive when reminded of a conflict or asked to re-examine their behavior. It encourages requesting rather than demanding. And it leaves some room for difference of opinion.&lt;/small&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;!-- /wp:quote --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Simple. Let people work things out for themselves. But only reasonable people can be trusted to do this. And in a zeitgeist obsessed with decentralization, perhaps a little reasonableness wouldn&apos;t hurt.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Lastly, if I were to add one thing, a motto that has served me well since college: &lt;strong&gt;assume good intentions&lt;/strong&gt;. It&apos;s amazing the mental shift when you assume others are motivated by good but acting under uncertainty. Instead of thinking &quot;how could they have done that,&quot; try &quot;what good intentions could have led them to do that?&quot; I think you&apos;d find everyone to be a little more reasonable, not least of all yourself.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Feb 2022 11:36:30 -0500</pubDate>
+        <link>http://localhost:4000/2022/02/08/a-modern-principle-for-digital-humans/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/02/08/a-modern-principle-for-digital-humans/</guid>
+        
+        
+        <category>21st Century Problems</category>
+        
+        <category>Philosophical Nuggets</category>
+        
+      </item>
+    
+      <item>
+        <title>They All Ship</title>
+        <description>&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jamesclear.com/ira-glass-failure&quot;&gt;Ira Glass&lt;/a&gt;:&lt;br /&gt;&quot;&lt;em&gt;The most important thing you can do is do a lot of work. Do a huge volume of work. Put yourself on a deadline so that every week or every month you know you’re going to finish one story. It is only by going through a volume of work that you’re going to catch up and close that gap. And the work you’re making will be as good as your ambitions.&lt;/em&gt;&quot;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ribbonfarm.com/2011/08/19/the-calculus-of-grit/&quot;&gt;Venkatesh Rao:&lt;/a&gt;&lt;br /&gt;&quot;Releasing&lt;em&gt;. As in the agile software dictum of &lt;/em&gt;release early and often&lt;em&gt;. In blogging, frequency isn’t about bug-fixing or collaboration. It isn’t even about market testing ... It is purely about rational gambling in the dollar-cost averaging sense. It is the investing advice &apos;don’t try to time the market&apos; applied to your personal work.&lt;/em&gt;&quot;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://taylorpearson.me/dothework/&quot;&gt;Taylor Pearson:&lt;/a&gt;&lt;br /&gt;&quot;&lt;em&gt;You need to put yourself on a deadline and ship. ‘Ship’, a term from Steve Jobs’ line &apos;real artists ship&apos; and &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;http://99u.com/articles/6249/seth-godin-the-truth-about-shipping&quot; target=&quot;_blank&quot;&gt;popularized by Seth Godin&lt;/a&gt;, is an essential difference between work and The Work. ... The Work may be the best way to achieve the goals that many people seek through work.&lt;/em&gt;&quot;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Create-Hate-Successful-People-Things-ebook/dp/B01LZOIBZS&quot;&gt;Dan Norris&lt;/a&gt;:&lt;br /&gt;&lt;em&gt;Understand that you have two choices: to create something or consume something. The only thing I know about successful people is that they create things. Create so much they can&apos;t ignore you.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;All form the same idea: shipping, releasing, publishing, producing, etc. That is, make something, then make it accessible to others. Writing in your journal does not count as shipping -- posting on a blog does. Playing guitar does not count as shipping -- uploading a song does. Doing code puzzles does not count as shipping -- contributing to open source does.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Every majorly successful person I can think of (or at least those that have attained household name status) are shippers. They release a lot. They have an air of prolific mastery. It&apos;s magic. How do they get so much done?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;One example: Robert Moses.[1] He&apos;s perhaps the most prolific public official to have ever lived. He was New York City&apos;s Parks Commissioner in the first half of the 20th century. He simultaneously held 12 state and local titles. He built 2.6 million acres of parks, 658 playgrounds, 416 miles of parkways, and 13 bridges. He worked tirelessly and ceaselessly. He had grand, clear visions. And he didn&apos;t compromise. In the styling of biographer Robert Caro, he &quot;Got Things Done;&quot; he shipped.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Robert Moses is the rule, and not the exception. The biography section is filled with men and women like him. What explains this commonality? Consider a few observations:&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;They&apos;ve had such an impact because they&apos;re excellent, and they&apos;re excellent &lt;em&gt;because&lt;/em&gt; they&apos;ve consistently shipped. Ira Glass, speaking above, said that every maker has a gap between their taste and the quality of their output. Only by producing a lot, can you close that gap.&lt;/li&gt;
+&lt;li&gt;Part of the love (arguably narcissism) they had for their craft was seeing it affect the real world. They had a sincere extraverted aim to their work: to publish it, to bend reality, to put a dent in the universe. Jerry Seinfeld didn&apos;t just love comedy, he loved to make others laugh. And &lt;a href=&quot;https://twitter.com/BrendanFitzTV/status/1263998531188035584&quot;&gt;that love drove him&lt;/a&gt; to keep producing and getting better.&lt;/li&gt;
+&lt;li&gt;A quickly expanding body of work attracts attention, which is a major aspect of success. People remember your one hit, not your entire back-catalog of flops. More work gives you more chances to strike a chord, as Rao said above.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:separator --&gt;&lt;/p&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Shipping is something that everyone can do. As a creator, your work is obvious -- create and publish. But for knowledge workers, your shippable work is not so easy to identify. If you&apos;re a leader or a manager, how do you ship?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Again, look at the example of Robert Moses above. He didn&apos;t lay bricks or thread suspension cables across bridges himself. Instead, he was the coordinator behind the projects. As they say: he didn&apos;t make it, but he did make it happen. By deftly delegating to and wielding an organization that was able to produce so many public works, he got the credit and became the man who &quot;got it done.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;In knowledge work, it&apos;s similarly important that the project you are tasked with gets done. Maybe that means you execute on it yourself, or maybe that means you enable others to. The bottom line is to build a reputation such that people feel confident entrusting you with responsibility. And you do that by shipping.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Shipping quality work over and over has been shown throughout history as a sure way to get good, to get noticed, and to get rewarded. So do the work and ship.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:separator --&gt;&lt;/p&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph {&quot;fontSize&quot;:&quot;small&quot;} --&gt;&lt;/p&gt;
+&lt;p class=&quot;has-small-font-size&quot;&gt;[1] &quot;The Power Broker: Robert Moses and the Fall of New York&quot; is a majorly influential book on me that you will surely see more references to.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 May 2020 17:27:57 -0400</pubDate>
+        <link>http://localhost:4000/2020/05/27/they-all-ship/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/27/they-all-ship/</guid>
+        
+        <category>Ambition</category>
+        
+        <category>building</category>
+        
+        <category>history</category>
+        
+        
+        <category>Great Builders</category>
+        
+      </item>
+    
+      <item>
+        <title>Should you learn to code? Probably not.</title>
+        <description>&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Ever heard this: &quot;everyone should learn to code?&quot; Or that &quot;the jobs of the future are all going to be coding jobs,&quot; followed by &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://thehill.com/changing-america/enrichment/education/476391-biden-tells-coal-miners-to-learn-to-code&quot; target=&quot;_blank&quot;&gt;recommendations to retrain hoards of middle-age and coal miners&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Mike Bloomberg signaled the peak of this idea in 2012:&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:image {&quot;id&quot;:148,&quot;sizeSlug&quot;:&quot;large&quot;} --&gt;&lt;/p&gt;
+&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;img src=&quot;/assets/2020/05/image-1.png?w=887&quot; alt=&quot;&quot; class=&quot;wp-image-148&quot; /&gt;&lt;br /&gt;
+&lt;figcaption&gt;I wonder how much those coding skills helped him in his presidential bid.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;!-- /wp:image --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;The idea is still strong today, but I don&apos;t know why. Is there some dev bootcamp cartel out there pushing this narrative? It seems like common sense, but I don&apos;t at all agree with it. Here&apos;s why.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Coding well is &lt;em&gt;really hard.&lt;/em&gt; It&apos;s like learning how to do an abstract branch of mathematics in Portuguese. You have to use thought processes you likely haven&apos;t used before. And you need to be incredibly detailed and particular because a machine will do &lt;em&gt;exactly&lt;/em&gt; what you tell it to. Until it doesn&apos;t, which leads me to... &lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Completing projects takes &lt;em&gt;insane levels of grit.&lt;/em&gt; There&apos;s a saying that the first 90% of software development is writing code, and the last 90% is debugging. Debugging means chasing an error around dozens of code files while banging your head against a wall until it goes away, only to find, like whack-a-mole, that another error popped up somewhere else. You know those people that can play a single level in a video game over and over for hours because they just &lt;em&gt;need&lt;/em&gt; to beat it... you need that level of frustration tolerance and commitment to discover that a single Chinese character in a text file you didn&apos;t write is the reason your whole program broke.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;And then understand that you don&apos;t just write code for yourself, but also for your future self and for others. A key aspect of good code is how readable and clear its intention is.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:image --&gt;&lt;/p&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;/assets/2020/05/code_quality.png&quot; alt=&quot;Code Quality&quot; title=&quot;I honestly didn&apos;t think you could even USE emoji in variable names. Or that there were so many different crying ones.&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;!-- /wp:image --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;But the most important point is that you&apos;ll likely never use the skill. I do a lot of coding for a living, and I barely program outside of work. Sure I&apos;ve done some projects on the side, but the code I&apos;ve written for myself and actually use is minuscule compared to my entire catalog of work.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;So what you face is a very difficult skill that has likely very little to no payoff unless it&apos;s for your job or you like to tinker with data and computer systems for fun.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:heading --&gt;&lt;/p&gt;
+&lt;h2&gt;When you should learn to code&lt;/h2&gt;
+&lt;p&gt;&lt;!-- /wp:heading --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;However, if you like solving difficult and nebulous logic problems, then coding is probably something you&apos;ll enjoy. And if you really enjoy it, then it might be worth making a career out of it. Because you kind of need to enjoy it to be good. But you don&apos;t necessarily need to be a Putnam contender to get something out of learning to code. There are good reasons to learn code, even if you don&apos;t want to make it a career.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list {&quot;ordered&quot;:true} --&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;You have personal work tasks you&apos;d like to automate&lt;/strong&gt;. Maybe it&apos;s pulling files from a server, or writing macros in Excel. You don&apos;t need to learn a lot of coding to make these kinds of tasks much much easier. And having a motivation for why you&apos;re learning (and a specific project to work on) helps tremendously. For example, I do all of my budgeting and tracking in a Google Sheet. At the end of every month I have a script that creates a new sheet, cleans it up, and resets values to begin tracking the new month. Don&apos;t need to be a pro for that. (A free book recommendation: &lt;a href=&quot;https://automatetheboringstuff.com/&quot;&gt;Automate the Boring Stuff with Python&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You like math and puzzles&lt;/strong&gt;. Did you like solving logic problems as a kid? I had stacks of logic problem books. Coding is the adult version of this where you create and solve your own logic problems at the same time. It genuinely can be fun. It&apos;s a quick way to enter a flow state. So maybe it&apos;s a fun little project or hobby. Which, incidentally, is one of the best ways to start before you decide to...&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make a career change.&lt;/strong&gt; This is the positioning that the &lt;a href=&quot;https://www.lambdaschool.com&quot;&gt;bootcamps &lt;/a&gt;take. Yes software can can be a lucrative and fulfilling career. You get to create every day. But as mentioned above, it takes a certain type of person to really enjoy this enough to be good and make a career out of it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:heading --&gt;&lt;/p&gt;
+&lt;h2&gt;Okay so you want to code. Here&apos;s my recommendation.&lt;/h2&gt;
+&lt;p&gt;&lt;!-- /wp:heading --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;First, figure out which of the three reasons above applies to you. Having a really good &quot;why&quot; to come back to will help keep you motivated and focused.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;If you&apos;re learning a specific task, like Excel Macros, watch a few YouTube tutorials and then just start hammering away at the task you want to complete. It&apos;ll be hard, but that&apos;s part of the learning process. You&apos;ll find yourself on Stack Overflow frequently. And there&apos;s likely a community of people willing to answer your question (nerds love answering questions and looking smart. Wait, I mean they love teaching).&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;If it&apos;s for enjoyment, learn the basics of Python. Then head over to &lt;a href=&quot;https://www.codewars.com/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Codewars&lt;/a&gt; or &lt;a href=&quot;https://projecteuler.net/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;Project Euler&lt;/a&gt; and just start solving problems. Again, it&apos;ll be slow going at first as you learn the syntax, the libraries, control flow, etc. If you find something was challenging, read the corresponding chapter in a book like this: http://openbookproject.net/thinkcs/python/english3e/.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;If it&apos;s for a career change, first figure out if you like it (again, a good indicator is if you easily get into a flow state). Then a bootcamp might be a good idea, but you can certainly do it on your own. But no matter what, doing a &lt;em&gt;lot &lt;/em&gt;of work, inside a system of accountability, is the only way you&apos;ll get good enough to get hired. When I hired engineers that came out of bootcamps, having command of the theory and having done a lot of creating were musts. &lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;This is the advice I&apos;d give to a friend who is thinking about coding. I took the traditional path of starting with high school computer science and majoring in it in college, so I didn&apos;t have to retrain myself. So maybe this doesn&apos;t work for you, but find out what does (harder than it sounds, I know). For any pursuit in general, focus on the &lt;em&gt;process&lt;/em&gt; and the &lt;em&gt;result&lt;/em&gt; will take care of itself. As Mihaly Csikszentmihalyi, the popularizer of the concept of a &quot;flow state&quot; said, &lt;em&gt;&quot;it is when we act freely, for the sake of the action itself rather than for ulterior motives, that we learn to become more than what we are.&quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;To summarize: Learning to code is likely a waste of time. But if it is right for you, make sure you know why. Then approach the task appropriately.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Questions? I&apos;d love to answer them to appear smart. I mean teach.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 May 2020 15:20:31 -0400</pubDate>
+        <link>http://localhost:4000/2020/05/08/should-you-learn-to-code-probably-not/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/08/should-you-learn-to-code-probably-not/</guid>
+        
+        <category>Advice</category>
+        
+        
+        <category>Programming</category>
+        
+      </item>
+    
+      <item>
+        <title>Book Review &amp; Summary: Barking Up the Wrong Tree</title>
+        <description>&lt;p&gt;&lt;!-- wp:image --&gt;&lt;/p&gt;
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;img src=&quot;/assets/2020/05/31706504._UY2700_SS2700_.jpg&quot; alt=&quot;Barking Up the Wrong Tree: The Surprising Science Behind Why ...&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;!-- /wp:image --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What you&apos;ll find:&lt;/strong&gt; A survey of recent pop psychology literature on success, time management, and other tips for the ambitious.&lt;br /&gt;&lt;strong&gt;My takeaway: &lt;/strong&gt;Much better use of your time than reading all the books he rounds-up. Delivers it all in a well organized and readable package. However, his writing style was grating at times--a symptom of reading too many pop-psych books no doubt.&lt;br /&gt;&lt;strong&gt;Rating: &lt;/strong&gt;2.5 (&lt;a href=&quot;http://fpaulw.com/rating-scale&quot;&gt;scale guide&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Read Section I for the subjective review, or skip straight to &lt;a href=&quot;#summary&quot;&gt;Section II&lt;/a&gt; for the book summary/notes.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I. The Review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;You&apos;ve seen the books in every airport across America: &lt;em&gt;The Power of Habit&lt;/em&gt;, &lt;em&gt;Good to Great&lt;/em&gt;, &lt;em&gt;Give and Take.&lt;/em&gt; They all promise to unlock an overlooked key to success (&lt;em&gt;&quot;Backed by research!&quot;)&lt;/em&gt;. I have a general rule of thumb that one should not buy a book that is found in airports with subtitles dreamed up by what seems like the same team of marketers (&quot;&lt;em&gt;How orchestra musicians, lion tamers, hedge fund managers, and Green Berets discovered morning routines for unstoppable productivity.&lt;/em&gt;&quot;). So why am I reviewing a book that fails on both of these tests? Because by reading this book, you don&apos;t have to read those others.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Eric Barker is a famous blogger known for his difficult-to-pronounce site &lt;a href=&quot;https://www.bakadesuyo.com/&quot;&gt;bakadesuyo.com&lt;/a&gt;. It&apos;s an onslaught of medium-brow listicles and dumbed-down research reports on topics like success, productivity, happiness, and all those things you feel you should be better at and buy books to help cope. The article titles rarely deliver on their promise, yet give just enough dopamine to feel like you&apos;ve grown. Compare to: TED talks.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;So naturally he wrote a book that&apos;s more of the same.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;The bad: you might think you&apos;d escape the nauseating writing style of the omnipresent business books, but unfortunately you don&apos;t. He has a terrible habit of starting his anecdotal stories &lt;em&gt;in media res&lt;/em&gt; in a cheap attempt to hook you that left me eye-rolling. A quick sampling (these are all complete paragraphs in the text, by the way):&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;Two men have died trying to do this.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Ashlyn Blocker does not feel pain.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Glenn Gould was such a hypochondriac that if you sneezed while on a phone call with him, he&apos;d immediately hang up.&quot; [1]&lt;/li&gt;
+&lt;li&gt;&quot;Steve Jobs was worried.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;In 1984, Neil Young was sued for not being himself.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;And that&apos;s just the first chapter! He further tries to lighten things up by quipping to the reader in parenthesis. Example: &lt;em&gt;&quot;Let&apos;s talk about orchids, dandelions, and hopeful monsters. (I know, I know, you talk about these things all the time and this is nothing new to you. Please indulge me.)&quot;&lt;/em&gt; No, please spare &lt;em&gt;me &lt;/em&gt;instead.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;It sounds like I&apos;m critical of this book, but really I did discover some good nuggets in it. I often found it motivating, and it did help unblock some of my thinking. (In particular, I found Chapter 3 the most useful for me right now). And despite the aforementioned hackneyed writing techniques, it was very readable.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;He writes good overviews of some of the most well-known researchers on risk-taking, agreeableness, grit, networking, confidence, and work/life balance. All topics that definitely contribute to a good grand strategy for success.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;He does this by taking all of those pop-psychology books from college professors du jour of recent years and delivers a high level picture of all the key takeaways. In fact, he uses the word &quot;study&quot; or &quot;research&quot; (as in &quot;a study found&quot;) &lt;em&gt;391 times&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I love studies and research, but I also know enough to be cautious of them; remember the &lt;a href=&quot;http://blogs.nature.com/news/2012/11/psychologists-do-some-soul-searching.html&quot;&gt;replication crisis&lt;/a&gt;? My main concern is that with most primary sources deriving from books driven by marketers, and not researchers, single studies which may be prone to all kinds of error are given an outsized voice and little critical eye. (To be fair, he does cite many journal articles. But still, this book is not meant to be a literature review and as such is vulnerable to the cherry-picking fallacy.)&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;What does that mean for you? Just don&apos;t take it as gospel. It&apos;s good advice, but figure out what works for you and remember to always think critically.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;If you&apos;re especially interested in what makes somebody successful and like to soak up tips for how you can improve, this will be a good thought-provoking read. For others, just use the summary below.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:html --&gt;&lt;/p&gt;
+&lt;p id=&quot;summary&quot;&gt;&lt;strong&gt;II. Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:html --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: these are notes that I felt useful in my own life at this time. What I&apos;ve included has been necessarily filtered through that lens.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 1: Risk-Taking&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;The most successful usually are non-conforming and original thinkers.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&quot;Following the rules doesn&apos;t create success; it just eliminates extremes--both good and bad. While this is usually good and all but eliminates downside risk, it also frequently eliminates earthshaking accomplishments.&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&quot;Filtered&quot; vs. &quot;Unfiltered&quot; leaders. &quot;Filtered&quot; leaders rise through the ranks and accepted channels. &quot;Unfiltered&quot; leaders enter through the side door and have typically &quot;bad&quot; characteristics (Chamberlain vs Churchill).
+&lt;ul&gt;
+&lt;li&gt;Unfiltered leaders are usually the ones who create monumental lasting changes. However, not always for the best.&lt;/li&gt;
+&lt;li&gt;Their bad characteristics become &quot;intensifiers.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&quot;To be great we must be different. And that doesn&apos;t come from trying to follow society&apos;s vision of what is best, because society doesn&apos;t always know what it needs. More often being the best means just being the best version of you.&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;How to utilize this: know your strengths. Pick the right environment for those strengths. (&lt;em&gt;&quot;Which companies, institutions, and situations value what I do?&quot;&lt;/em&gt;)
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&quot;If you follow rules well, find and organization aligned with your signature strengths and go full steam ahead. Society clearly rewards those who comply, and these people keep the world in an orderly place. If you&apos;re more of an unfiltered type, be ready to blaze your own path. Leverage the intensifiers that make you unique. You&apos;re more likely to reach the heights of success--and happiness--if you embrace your &apos;flaws.&apos;&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 2: Being &quot;nice&quot;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Managing appearance and likability often works better than hard work in corporate environments.&lt;/li&gt;
+&lt;li&gt;Disagreeable people also do well because they assert what they want and self-promote.
+&lt;ul&gt;
+&lt;li&gt;However, a culture of disagreeability is infections and makes everyone worse off. We deal with people over and over -- a kind of iterated prisoner&apos;s dilemma.&lt;/li&gt;
+&lt;li&gt;A good strategy comes from game theory: Tit-For-Tat. Assume good intentions, and if violated, violate back. If good again, be good again.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Rule 1&lt;/span&gt;: Work with good people&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Rule 2&lt;/span&gt;: Don&apos;t wait for the other person: cooperate first&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Rule 3&lt;/span&gt;: Don&apos;t be a selfless martyr -- you&apos;ll get taken advantage of by &quot;takers&quot;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Rule 4&lt;/span&gt;: Work hard, but also make sure you get noticed without sounding like a braggart. (Send a &quot;here&apos;s what I did this week&quot; email to your boss, for example)&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Rule 5&lt;/span&gt;: Think long-term. Infinite game over finite game.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Rule 6&lt;/span&gt;: Forgive eventually&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 3: Grit&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Grit (sticking to something, working hard, and not giving up) &quot;is a key reason why we see such differing levels of achievement between people of the same intelligence and talent levels.&quot;&lt;/li&gt;
+&lt;li&gt;A way to tap into grit is through positive self-talk. It comes down to the stories you tell yourself. Tell yourself &quot;you can do it.&quot;&lt;/li&gt;
+&lt;li&gt;Optimists tell themselves better stories and are more gritty. Their stories differ in three ways: permanence, pervasiveness, and personalization. They say setbacks are temporary, specific, and not their own fault.&lt;/li&gt;
+&lt;li&gt;People with a purpose have more grit. In Viktor Frankl&apos;s &lt;span style=&quot;text-decoration:underline;&quot;&gt;Man&apos;s Search for Meaning&lt;/span&gt;: &lt;em&gt;&quot;He who knows the &apos;why&apos; for his existence, will be able to bear almost any &apos;how.&apos;&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Consciously and deliberately construct a good story of who you are and where you are going.&lt;/li&gt;
+&lt;li&gt;To think about what&apos;s important, meditate on death. &quot;Momento mori.&quot;&lt;/li&gt;
+&lt;li&gt;Story editing: go from &quot;I can&apos;t do this&quot; to &quot;I just need to learn the ropes first.&quot; Then play the part, because beliefs follow actions.&lt;/li&gt;
+&lt;li&gt;Make your pursuit a game: Break it into small, challenging, yet achievable chunks. Good games are winnable, have novel goals, and provide feedback.
+&lt;ul&gt;
+&lt;li&gt;Think of a good, measurable, way to &quot;score&quot; your game. For example, set the goal &quot;I want to achieve 2 hours of deep work tomorrow&quot; and see how you do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Focus on ONE thing and liberally say no to others.&lt;/li&gt;
+&lt;li&gt;Maximize luck by maximizing opportunities. In other words, just &lt;em&gt;try stuff.&lt;/em&gt; Experiment. Prototype and test.
+&lt;ul&gt;
+&lt;li&gt;Embrace failure at this stage: &quot;Learn by doing. Fail quickly to learn fast.&quot;&lt;/li&gt;
+&lt;li&gt;Try things, quit what fails, then apply grit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;When you have a focus, still devote 5-10 percent of your time to little experiments.&lt;/li&gt;
+&lt;li&gt;Daydreaming tricks your brain into feeling like you&apos;ve already accomplished something. After the dream, think &lt;em&gt;what&apos;s getting in the way of my fantasy? And what will I do to overcome that?&lt;/em&gt; Dreaming up a plan instead gives energy to the pursuit.&lt;/li&gt;
+&lt;li&gt;Planning tips:
+&lt;ul&gt;
+&lt;li&gt;Think if/then: &quot;If X happens, then I&apos;ll do Y.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Premeditatio malorum:&quot; think &quot;what&apos;s the worst that could happen?&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Apply WOOP to your goals: wish, outcome, obstacle, plan. This will also help filter unrealistic goals if they fail this process.
+&lt;ul&gt;
+&lt;li&gt;Vague wish: &quot;I want a good job&quot;. Concrete outcome: &quot;VP at Google.&quot; Obstacle: &quot;I don&apos;t know how to get an interview.&quot; Plan: &quot;I&apos;ll look at LinkedIn for connections.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The process:
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Step 1&lt;/span&gt;: Figure out what you need to be gritty at.
+&lt;ul&gt;
+&lt;li&gt;Do little bets until you have it&lt;/li&gt;
+&lt;li&gt;When a bet looks promising or exciting, apply WOOP to it and begin executing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Step 2&lt;/span&gt;: Remain optimistic
+&lt;ul&gt;
+&lt;li&gt;Pessimism is useful to keep us honest, but optimism is best for low risks and/or high payoff pursuits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Step 3&lt;/span&gt;: Have meaning
+&lt;ul&gt;
+&lt;li&gt;Think about your values (use &quot;momento mori&quot; to help).&lt;/li&gt;
+&lt;li&gt;Your story should be that you&apos;re working on something bigger than yourself, and you believe that &quot;this is worth it.&quot; And try writing it down.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Step 4&lt;/span&gt;: Gamify it
+&lt;ul&gt;
+&lt;li&gt;Break it down, determine the scoring system, and challenge yourself.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Step 5&lt;/span&gt;: Eliminate less-worthy activities
+&lt;ul&gt;
+&lt;li&gt;https://fs.blog/2015/04/saying-no-how-successful-people-stay-productive/&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Step 6&lt;/span&gt;: Continuously run little experiments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 4: Networking&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&quot;Extroverts make more money, get more promotions, are more likely to become leaders, find new jobs faster, and are both luckier and happier.&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;However, &quot;&lt;em&gt;the superpower of introverts is that they are far more likely to become experts in their field.&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;As leaders, extroverts help with passive workers; they are more natural at motivating and building group cohesion. Introverts are better with active workers because they listen, help, and get out of the way.&lt;/li&gt;
+&lt;li&gt;Networking tips:
+&lt;ul&gt;
+&lt;li&gt;The most important skill of networking: be a friend. Show a genuine interest in something you and the other person have in common.&lt;/li&gt;
+&lt;li&gt;Be socially optimistic: assume other people will like you and they probably will.&lt;/li&gt;
+&lt;li&gt;Pay &lt;em&gt;sincere &lt;/em&gt;compliments. People like them more than sex or money.&lt;/li&gt;
+&lt;li&gt;Offer help: if people say they are having trouble with something, find a way you can help.&lt;/li&gt;
+&lt;li&gt;Start with friends you already have and reconnect there.&lt;/li&gt;
+&lt;li&gt;Allocate time and money in advance for networking. Money spent on others brings more happiness than spent on oneself.&lt;/li&gt;
+&lt;li&gt;Join groups.&lt;/li&gt;
+&lt;li&gt;Check in with people every now and then.&lt;/li&gt;
+&lt;li&gt;Engage in the social dynamics of your company (work-related gossip can be very helpful)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mentors:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&quot;Virtually without exception, each [internationally successful athlete, scientist, and artist studied] had been trained by a master teacher, who had trained earlier students to reach an international level.&quot;&lt;/em&gt; --- K. Anders Ericsson&lt;/li&gt;
+&lt;li&gt;To get a good mentor, be a good pupil. Mentors want to have a hand in those who are rising fast. If you&apos;re working hard to advance your career and doing enough outreach, you should get noticed.&lt;/li&gt;
+&lt;li&gt;Before seeking a mentor&apos;s help, show that you&apos;ve explored every conceivable avenue and can go no further.&lt;/li&gt;
+&lt;li&gt;Similarly, ask great questions that you can&apos;t find by researching. Don&apos;t waste their time.&lt;/li&gt;
+&lt;li&gt;It&apos;s on you to keep the relationship alive. Find ways to stay relevant and drop emails and questions frequently, but not too frequently to be bothersome.&lt;/li&gt;
+&lt;li&gt;Show you&apos;ve taken their advice, and give them recognition for their help. Say &quot;I [did what you said] and figured my [next step] would be [blank], but I&apos;d love your insight. Do you think [well-thought-out strategy one] or [well-thought-out strategy two] is better?&quot;&lt;/li&gt;
+&lt;li&gt;In the end, make your mentor look good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Negotiations:
+&lt;ul&gt;
+&lt;li&gt;Number one rule (of salary negotiations): they have to like you.&lt;/li&gt;
+&lt;li&gt;Don&apos;t judge what people say. Listen and acknowledge, paraphrasing back what they&apos;ve said to show you understand.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Express gratitude to others.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 5: Confidence&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Overconfidence gives the impression of competence and higher status.&lt;/li&gt;
+&lt;li&gt;&quot;&lt;em&gt;Faking it seems, to a degree, to just be part of good people management.&quot; &quot;The secret of leadership was the ability to play a role, to pretend, to be skilled in the theatrical arts ... to come across effectively, we need to master how to convey power.&quot;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;However, fakers start to lose others&apos; trust and lose their grip on reality. Instead, focus on presenting the best version of yourself.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Optimism vs pessimism: optimists are more likely to keep going and convince others, but are usually less realistic. Pessimists saw the world more accurately. Pessimist entrepreneurs and lawyers are more successful, whereas optimistic gamblers lose more money. Both are necessary.&lt;/li&gt;
+&lt;li&gt;However, over/under confidence and optimism/pessimism may be the wrong scales. Instead, practice self-compassion.
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&quot;Compassion for yourself when you fail means you don&apos;t need to be a delusional jerk to succeed and you don&apos;t have to feel incompetent to improve. You get off the yo-yo experience of absurd expectations and beating yourself up when you don&apos;t meet them. You stop lying to yourself that you&apos;re so awesome. Instead, focus on forgiving yourself when you&apos;re not.&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;By detaching from outcomes, by having self-compassion no matter what happens, you will feel more motivated to act.&lt;/li&gt;
+&lt;li&gt;How to practice self-compassion? Talk to yourself kindly, &quot;like grandma would.&quot;&lt;/li&gt;
+&lt;li&gt;Believing in yourself is nice. Forgiving yourself is better.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 6: Hard Work&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Does extreme hard work produce extreme success? Yes.&lt;/li&gt;
+&lt;li&gt;Focus on output: &quot;voluminous productivity is the rule and not the exception among the individuals who have made some noteworthy contributions.&quot; (Frank Barron). And, &lt;em&gt;&quot;those individuals with the highest total output will, on average, produce the most acclaimed contributions as well.&quot;&lt;/em&gt; (Dean Keith Simonton).&lt;/li&gt;
+&lt;li&gt;Burnout occurs when people aren&apos;t engaged in meaningful work and have a pessimistic attitude towards their job.
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&quot;The WSJ reports: &apos;Those who stayed very involved in meaningful careers and worked the hardest, lived the longest.&apos; Meaningful work means doing something that&apos;s (a) important to you and (b) something you&apos;re good at.&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The trade-off, of course, is extremely successful people destroy relationships, display high levels of neuroticism and self-deception, and are generally less happy. How to tow this line?&lt;/li&gt;
+&lt;li&gt;Compare your success only to your own yardstick:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&quot;You need a personal definition of success. Looking around you to see if you&apos;re succeeding is no longer a realistic option. Trying to be a relative success compared to others is dangerous. [...] You need to ask &apos;What do I want?&apos; [...] &apos;having it all&apos; isn&apos;t possible when others determine the limits in each category.&quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Most people are productive an hour after waking up.&lt;/li&gt;
+&lt;li&gt;The optimal time to focus on relationships is when they don&apos;t seem to need it, not when they need repair.&lt;/li&gt;
+&lt;li&gt;Four metrics that matter most in life
+&lt;ol&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Happiness&lt;/span&gt;: having feelings of pleasure or contentment in and about your life. Enjoying.&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Achievement&lt;/span&gt;: achieving accomplishments that compare favorably against similar goals others have strived for. &lt;em&gt;Winning.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Significance&lt;/span&gt;: having a positive impact on people you care about. &lt;em&gt;Counting to others.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;Legacy&lt;/span&gt;: establishing your values or accomplishments in ways that help others find future success. &lt;em&gt;Extending&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Set the personal bar for each category. Your aim should be to reach &quot;good enough&quot; in each.&lt;/li&gt;
+&lt;li&gt;Tip: track each hour of the day to see which categories are getting the most focus. Do you need to readjust?&lt;/li&gt;
+&lt;li&gt;Don&apos;t &quot;pick&quot; from options for your life, &quot;choose.&quot; In other words, don&apos;t be reactive. Be active. Have a plan, and focus on the long term.
+&lt;ul&gt;
+&lt;li&gt;Understand: the plan won&apos;t be perfect. You&apos;ll screw up. But have self-compassion, reorient, and decide what to do next.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:list --&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chapter 7: Conclusion&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;The most important principle is alignment between who you are and where you choose to be.&lt;/li&gt;
+&lt;li&gt;The takeaway from the Harvard Grant Study: &quot;The only thing that really matters in life are your relationships to other people.&quot;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&quot;The most powerful motivators aren&apos;t money, but the opportunity to grow in responsibilities, contribute to others, and be recognized for achievements&quot;&lt;/em&gt; -- &lt;a href=&quot;https://hbr.org/2010/07/how-will-you-measure-your-life&quot;&gt;Clayton M. Christensen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;!-- /wp:list --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:separator --&gt;&lt;/p&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;[1] Glenn Gould is one of the most famous piano players in history. He is best known for his performances of Bach&apos;s pieces. If you at all have any interest in classical music, this video is an education in and of itself: https://www.youtube.com/watch?v=9ZX_XCYokQo&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 May 2020 15:39:25 -0400</pubDate>
+        <link>http://localhost:4000/2020/05/05/book-review-barking-up-the-wrong-tree/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/05/05/book-review-barking-up-the-wrong-tree/</guid>
+        
+        <category>Success</category>
+        
+        
+        <category>Book Review</category>
+        
+      </item>
+    
+      <item>
+        <title>You don&apos;t need time management. You need attention management.</title>
+        <description>&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;You&apos;ve heard it before, and likely pay lip-service to it: &quot;time is the most precious commodity. It&apos;s the one thing you cannot buy.&quot; Do you believe this?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Do you believe that time can be killed or that time can be made? You use these phrases often, after all.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Yes, it is true you get the same 24 hours anyone else gets. And if you are like me, after spending just half of one of those hours on something deemed &quot;not worthy,&quot;  you feel a familiar pang of guilt... only to find yourself spending another doing the same thing.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Here&apos;s the problem: &lt;strong&gt;you are protective of the wrong thing&lt;/strong&gt;. You complain about standing in a long line. What would you have done otherwise? Instagram? You tell that acquaintance you&apos;ll get together another night. So you can spend tonight on Netflix.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;The precious commodity is not your time, but your &lt;strong&gt;attention&lt;/strong&gt;. Without your attention, your time is meaningless. What you give your attention to in any moment is the only value that moment has.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;And our attention has been hijacked. We have a deficit of it. It&apos;s weak.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I&apos;ve recently begun meditating again (my third attempt at building the habit). The most difficult aspect, as anyone will immediately find, is controlling your attention. Your thoughts wander, you get restless, your mind is totally out of control. See, the power in meditation is not in uplifting the spirit but in strengthening the skill of focusing your attention. To eventually be able to control it. To be &lt;em&gt;mindful&lt;/em&gt; instead of constantly &lt;em&gt;mindless.&lt;/em&gt; It&apos;s more difficult than it sounds. [1]&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;What is the most valuable thing to Google? To Facebook? To Twitter? To your favorite news media? It&apos;s their users&apos; attention, and they&apos;re damn good at keeping it. Without it, they cannot keep you on the site, looking at and clicking on ads. This is not an original concept, but I still believe it is underappreciated. You are not paying for these services in time, but attention. And by being protective of your time but not your attention, you are duped into thinking it&apos;s a fair deal.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;At the risk of sounding like the old &quot;get off my lawn&quot; grandpa persona I am surely bumbling towards, TikTok appears to be the worst offender. They reward the minimum amount of passive attention (15s) with the maximum amount of dopamine. It&apos;s a hormonal slot machine. An infinite jest.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Do not let these apps have unchecked control of your attention.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I contend that one of the most important skills we can develop is not time-management but &lt;strong&gt;attention-management&lt;/strong&gt;. To actively manage who or what gets your attention. Decide not &quot;what is the best thing to do with this next 30 minutes,&quot; but &quot;what is the best thing to pay attention to for the next 30 minutes.&quot; You might surprise yourself.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;This does not mean being busy for the sake of busy. How you spend your attention is how your prioritize your life. Do you prioritize a status-seeking state of busyness over progress, relationships, learning?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Indeed, take your leisure. But really pay attention to it. My personal favorite activities are reading and taking a walk while trying to pick out all of the different bird calls. But whatever it is, be active in your consumption.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Hear each note of your song.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:separator --&gt;&lt;/p&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;[1] My favorite app, which instills this approach, is Sam Harris&apos; Waking Up.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Apr 2020 11:34:08 -0400</pubDate>
+        <link>http://localhost:4000/2020/04/30/you-dont-need-time-management-you-need-attention-management/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/30/you-dont-need-time-management-you-need-attention-management/</guid>
+        
+        <category>Mindfulness</category>
+        
+        <category>Modernity</category>
+        
+        
+        <category>Philosophical Nuggets</category>
+        
+      </item>
+    
+      <item>
+        <title>Just let me read one more thing and I&apos;ll be ready</title>
+        <description>&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I have this tendency, and maybe you do too. I think it&apos;s born from a feeling of never quite being ready or skilled enough to accomplish something -- say a job interview, or a diet, or a new hobby, or a blog, or a business. It&apos;s caused by the fear of uncertainty that lies ahead in whatever pursuit might be worthwhile.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I believe the biggest achievers in life (and don&apos;t lie, you want to be one of them too), have a singular, obsessive focus. A grand vision. A master plan. And they pursue it doggedly until it is realized.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;So I try to bootstrap myself to a vision. And unfortunately this is incredibly easy for my uber-forward-looking brain to do. I get drunk on that vision. I succumb to daydreams and sleepless hours of bedtime fantasizing. I create movies of conversations I&apos;ll have with mentors, or future employees. &lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I encumber my browser tabs with articles promising to answer the question &quot;how do I do this?&quot; Or I fill my Amazon cart with books from an online reading list promising everything you need to know about this. &quot;Once I read through all of these,&quot; I think to myself, &quot;I&apos;ll have developed enough expertise to begin.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I get this rush in my chest like I&apos;m finally about to open the lost scrolls and be given The Secret. So I settle into a chair, open the book, and be prepare to be graced with enlightenment...&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;But it never, &lt;em&gt;ever,&lt;/em&gt; comes.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;And then I find reality of the work is nothing like these fantasies. I&apos;m crushed. And I walk away, rejected and defeated. Please, fate, tell me I&apos;m not the only one.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Sure I get closer. I gain a little knowledge or wisdom. I become a better person, or better thinker. But no, I still don&apos;t have it figured out. I&apos;m still not an expert. And I&apos;m still navigating with uncertainty.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I flounder. I experience &lt;a rel=&quot;noreferrer noopener&quot; href=&quot;https://seths.blog/2013/08/qa-the-dip-and-knowing-when-to-quit/&quot; target=&quot;_blank&quot;&gt;the dip&lt;/a&gt;. I realize how hard it really is to become an expert, or to change a personality trait, or to fix a diet. And I quit. Books go unread. Tabs get closed.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;You think I&apos;d be immune to this pattern by now. I&apos;m not.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:separator --&gt;&lt;/p&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;II&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;If it can&apos;t be destroyed, can it be managed? I believe it can. And a blog is one way to do that. By writing freely and openly about my current pursuits or interests, waking from the daydream and releasing my expectations for what each pursuit might bring, I will build a path, brick-by-brick, with destination unknown. You can only connect the dots looking backward.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Michel de Montaigne, a favorite lay philosopher of mine, took this flaneur-like approach to his own interests. He&apos;d write an essay on whichever topic happened to excite his intellect. It seems like a more fulfilling and care-free way to live.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;A great struggle in my life is to overcome building up a vision so clearly only to have reality slap me in the face. I know that by reading, instead of doing, I can prolong that slap. But it will hit sooner or later, and it will turn me away all the same.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;How can we set ourselves up to expect, and then push through, the slap? Is it better to live aimlessly? No, I contend. But neither is it good to live with such a targeted and specific aim that you cannot accomplish it.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I believe, like most things in life, the optimum is somewhere in the middle. How can we feel out that middle path?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;First, by setting an abstract vision for yourself -- the kind of life you want to lead and the kind of achievement you strive for -- you can give yourself flexibility to reorient and determine a concrete path to the next step. If it&apos;s too concrete, the cold slap of reality will destroy it swiftly.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Second, determine the next concrete step to achieving that goal and set a deadline. Try to do it without too much research first; another failure trap. But what if research and asking for advice are part of the next step? It&apos;s fine, but make sure you self-reflect enough to know it&apos;s not a procrastination technique.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Third, keep a constant perspective on long-term thinking. Short-term thinking is really easy to abandon. A goal like &quot;lose 5 pounds in a month&quot; is incredibly short-term. The consequences of failure are small, and the ability to push out the deadline too easy. Instead, if your next concrete step is short-term, remind yourself that this short-term goal is the best thing to get me closer to my long-term vision.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;Fourth, bias yourself towards action. If you don&apos;t know if you should consume or produce, always pick produce. The most successful people in life have been those that could Get Things Done.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:separator --&gt;&lt;/p&gt;
+&lt;hr class=&quot;wp-block-separator&quot; /&gt;
+&lt;!-- /wp:separator --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;III&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I am not a master at this process, nor am I entirely sure it&apos;s perfect. I&apos;ll write posts here as I discover more about it and how my mind works. It&apos;s an on-going conversation. Maybe you have a different perspective, which I encourage hearing. &lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;I can say, though, that from what I&apos;ve gotten from studying successful people, they all do something like the four steps above. Take everybody&apos;s default successful person example: Steve Jobs. Was his grand 25-year old vision in 1982 to invent the iPhone? Impossible. But his unflinching vision did guide him into determine that the iPhone was the next best concrete step in the mid 2000s.&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt;
+&lt;p&gt;What is that vision to you?&lt;/p&gt;
+&lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Apr 2020 13:59:52 -0400</pubDate>
+        <link>http://localhost:4000/2020/04/28/just-let-me-read-one-more-thing-and-ill-be-ready/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/28/just-let-me-read-one-more-thing-and-ill-be-ready/</guid>
+        
+        <category>Advice</category>
+        
+        <category>Success</category>
+        
+        
+        <category>Philosophical Nuggets</category>
+        
+      </item>
+    
+  </channel>
+</rss>
